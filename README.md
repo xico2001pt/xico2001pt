@@ -45,5 +45,7 @@
     </h2>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"><br/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+</div>
