@@ -18,10 +18,10 @@
 </div>
 
 - 🎓 Bacherlor and Master in **Informatics and Computing Engineering** at [FEUP](fe.up.pt).
-- 💻 I'm interested in a lot of areas within informatics, specially **AI**, **Software Engineering**, and **Game Development**. 
+- 💻 I'm interested in a lot of areas within informatics, especially **AI**, **Software Engineering**, and **Game Development**. 
 - 🌱 I’m currently learning about **Machine Learning** and **Data Science**.
 - 🎨 I have a passion for the artistic world, specially **Music**, and **Illustration**.
-- 🌌 I’m also fascinated by the **Cosmos** and enjoy exploring the mysteries of the universe.
+- 🌌 I’m also fascinated by the **Cosmos** and exploring the mysteries of the universe.
 
 <div style="border-bottom: 0px">
     <h2>
