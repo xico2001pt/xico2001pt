@@ -21,6 +21,7 @@
 - 💻 I'm interested in a lot of areas within informatics, specially **AI**, **Software Engineering**, and **Game Development**. 
 - 🌱 I’m currently learning about **Machine Learning** and **Data Science**.
 - 🎨 I have a passion for the artistic world, specially **Music**, and **Illustration**.
+- 🌌 I’m also fascinated by the **Cosmos** and enjoy exploring the mysteries of the universe.
 
 <div style="border-bottom: 0px">
     <h2>
@@ -46,20 +47,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xico2001pt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"><br/>
-
-<!--
-<div style="border-bottom: 0px">
-    <h2>
-    📈 My GitHub Stats:
-    </h2>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
